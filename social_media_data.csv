@@ -1,0 +1,121 @@
+Post_ID,Date,Topic,Content_Type,Hook_Type,Posting_Time,Caption_Style,Video_Length_sec,Impressions,Likes,Shares,Saves,Comments_Count,Retention_Rate,Comment_Text
+P001,2026-01-01,Self Confidence,Short Video,Text,Night,Question,59.0,23384,1039,287,271,127,0.762,This is exactly what I struggle with.
+P002,2026-01-02,Overthinking,Short Video,Visual,Afternoon,Story,25.0,37606,2691,745,703,331,0.728,Good information and advice.
+P003,2026-01-03,Social Anxiety,Carousel,Visual,Morning,Advice,,14860,1372,380,358,168,0.573,This is exactly how I feel in social situations.
+P004,2026-01-04,Self Confidence,Short Video,Text,Afternoon,Advice,50.0,43757,4208,1165,1100,517,0.821,"Helpful advice, thank you."
+P005,2026-01-05,Self Confidence,Short Video,Visual,Morning,Advice,39.0,20106,2097,580,548,258,0.529,I don't personally relate to this.
+P006,2026-01-06,Overthinking,Long Video,Visual,Afternoon,Question,118.0,28574,2489,689,651,306,0.7,My brain does this all the time.
+P007,2026-01-07,Social Anxiety,Short Video,Text,Evening,Story,50.0,28524,3146,871,822,387,0.747,Good post but I do not relate to this.
+P008,2026-01-08,Social Anxiety,Carousel,Text,Night,Story,,8636,915,253,239,112,0.58,I thought I was the only one experiencing this.
+P009,2026-01-09,Self Confidence,Short Video,Visual,Morning,Story,51.0,15916,806,223,210,99,0.712,I needed to hear this today.
+P010,2026-01-10,Dating,Carousel,Visual,Morning,Advice,,9809,762,211,199,93,0.457,Not really relatable to me.
+P011,2026-01-11,Self Confidence,Long Video,Text,Night,Question,121.0,37201,3557,985,930,437,0.74,This is exactly what I struggle with.
+P012,2026-01-12,Self Confidence,Short Video,Text,Morning,Advice,49.0,18456,2327,644,608,286,0.646,"Helpful advice, thank you."
+P013,2026-01-13,Self Confidence,Short Video,Text,Morning,Advice,49.0,43765,3717,1029,972,457,0.602,This is exactly what I struggle with.
+P014,2026-01-14,Self Confidence,Carousel,Text,Afternoon,Story,,39816,3351,928,876,412,0.756,Very relatable and honest.
+P015,2026-01-15,Overthinking,Long Video,Visual,Morning,Advice,178.0,22100,1473,408,385,181,0.528,This is incredibly relatable.
+P016,2026-01-16,Social Anxiety,Long Video,Text,Evening,Story,145.0,26949,3238,896,847,398,0.437,I thought I was the only one experiencing this.
+P017,2026-01-17,Overthinking,Long Video,Text,Evening,Question,135.0,9544,1003,277,262,123,0.418,I feel understood by this post.
+P018,2026-01-18,Overthinking,Short Video,Visual,Night,Story,38.0,42744,3526,976,922,434,0.749,This topic is not relatable to me.
+P019,2026-01-19,Overthinking,Short Video,Text,Morning,Question,37.0,47783,3018,835,789,371,0.504,This topic is not relatable to me.
+P020,2026-01-20,Self Confidence,Short Video,Visual,Night,Story,46.0,31657,2523,698,659,310,0.898,This is exactly what I struggle with.
+P021,2026-01-21,Dating,Carousel,Text,Evening,Advice,,41187,2483,687,649,305,0.349,This explains what many people experience.
+P022,2026-01-22,Social Anxiety,Long Video,Text,Morning,Advice,80.0,12239,873,241,228,107,0.841,"Very relatable, this explained my feelings perfectly."
+P023,2026-01-23,Dating,Short Video,Text,Morning,Question,27.0,19489,1145,317,299,141,0.697,Interesting perspective and useful advice.
+P024,2026-01-24,Overthinking,Short Video,Visual,Night,Question,37.0,48125,4070,1127,1064,500,0.657,This topic is not relatable to me.
+P025,2026-01-25,Overthinking,Short Video,Visual,Evening,Question,39.0,33538,2670,739,698,328,0.599,My brain does this all the time.
+P026,2026-01-26,Dating,Short Video,Text,Morning,Story,49.0,37049,4543,1258,1188,559,0.722,Not really relatable to me.
+P027,2026-01-27,Dating,Long Video,Visual,Night,Story,109.0,42131,4944,1369,1293,608,0.615,Not really relatable to me.
+P028,2026-01-28,Dating,Long Video,Visual,Evening,Question,74.0,47944,5732,1587,1499,705,0.763,Interesting perspective and useful advice.
+P029,2026-01-29,Overthinking,Carousel,Visual,Night,Advice,,13427,1721,476,450,211,0.635,My brain does this all the time.
+P030,2026-01-30,Overthinking,Short Video,Visual,Afternoon,Story,34.0,46348,4309,1193,1127,530,0.69,Good information and advice.
+P031,2026-01-31,Social Anxiety,Short Video,Visual,Morning,Story,39.0,29285,1843,510,482,226,0.623,This is exactly how I feel in social situations.
+P032,2026-02-01,Social Anxiety,Long Video,Visual,Afternoon,Story,177.0,42626,4841,1340,1266,595,0.613,I thought I was the only one experiencing this.
+P033,2026-02-02,Overthinking,Long Video,Text,Evening,Question,114.0,47808,5476,1516,1432,674,0.66,My brain does this all the time.
+P034,2026-02-03,Dating,Long Video,Text,Afternoon,Question,178.0,27928,2873,795,751,353,0.398,Interesting perspective and useful advice.
+P035,2026-02-04,Dating,Long Video,Visual,Afternoon,Question,63.0,24198,2372,657,620,292,0.445,Not really relatable to me.
+P036,2026-02-05,Social Anxiety,Short Video,Text,Evening,Question,26.0,24758,2078,575,543,255,0.767,This is exactly how I feel in social situations.
+P037,2026-02-06,Overthinking,Long Video,Text,Night,Question,147.0,20254,1575,436,412,193,0.642,My brain does this all the time.
+P038,2026-02-07,Social Anxiety,Short Video,Text,Afternoon,Advice,33.0,49238,4908,1359,1283,604,0.646,"Very relatable, this explained my feelings perfectly."
+P039,2026-02-08,Social Anxiety,Short Video,Text,Night,Advice,26.0,6252,675,186,176,83,0.672,Good post but I do not relate to this.
+P040,2026-02-09,Self Confidence,Short Video,Visual,Afternoon,Question,23.0,44764,4072,1127,1065,501,0.715,This is exactly what I struggle with.
+P041,2026-02-10,Self Confidence,Short Video,Text,Night,Story,21.0,17173,1043,289,272,128,0.6,"Helpful advice, thank you."
+P042,2026-02-11,Self Confidence,Long Video,Text,Evening,Question,156.0,42441,6374,1765,1667,784,0.519,This is exactly what I struggle with.
+P043,2026-02-12,Dating,Short Video,Visual,Afternoon,Advice,28.0,31698,3557,985,930,437,0.695,Not really relatable to me.
+P044,2026-02-13,Overthinking,Long Video,Visual,Evening,Advice,132.0,20781,1790,495,468,220,0.493,My brain does this all the time.
+P045,2026-02-14,Overthinking,Carousel,Text,Afternoon,Story,,18051,1027,284,268,126,0.673,My brain does this all the time.
+P046,2026-02-15,Overthinking,Short Video,Text,Evening,Advice,30.0,44649,2695,746,705,331,0.449,This topic is not relatable to me.
+P047,2026-02-16,Overthinking,Short Video,Text,Evening,Question,19.0,11949,1155,320,302,142,0.804,My brain does this all the time.
+P048,2026-02-17,Self Confidence,Long Video,Text,Afternoon,Story,88.0,47289,2583,715,675,317,0.681,I needed to hear this today.
+P049,2026-02-18,Dating,Short Video,Text,Afternoon,Question,26.0,13017,782,216,204,96,0.703,This is so relatable to my dating life.
+P050,2026-02-19,Dating,Short Video,Text,Afternoon,Question,39.0,11941,881,244,230,108,0.798,Interesting perspective and useful advice.
+P051,2026-02-20,Self Confidence,Short Video,Visual,Morning,Story,35.0,30934,2011,557,526,247,0.887,"Helpful advice, thank you."
+P052,2026-02-21,Dating,Short Video,Text,Night,Question,50.0,28386,3657,1012,956,450,0.802,This explains what many people experience.
+P053,2026-02-22,Self Confidence,Carousel,Text,Morning,Advice,,15209,560,155,146,69,0.381,This is exactly what I struggle with.
+P054,2026-02-23,Overthinking,Carousel,Visual,Morning,Question,,22715,2348,650,614,289,0.454,This topic is not relatable to me.
+P055,2026-02-24,Self Confidence,Long Video,Visual,Evening,Story,118.0,33920,3749,1038,980,461,0.539,I don't personally relate to this.
+P056,2026-02-25,Overthinking,Carousel,Visual,Afternoon,Story,,36703,5694,1576,1489,700,0.623,This topic is not relatable to me.
+P057,2026-02-26,Overthinking,Carousel,Visual,Night,Story,,47318,3838,1062,1003,472,0.687,I feel understood by this post.
+P058,2026-02-27,Social Anxiety,Short Video,Text,Evening,Question,53.0,9637,905,250,236,111,0.576,"Useful advice, I can try this."
+P059,2026-02-28,Self Confidence,Carousel,Text,Morning,Story,,9854,1145,317,299,140,0.644,Very relatable and honest.
+P060,2026-03-01,Social Anxiety,Long Video,Text,Afternoon,Story,161.0,48088,6240,1728,1632,768,0.522,Good post but I do not relate to this.
+P061,2026-03-02,Self Confidence,Carousel,Text,Evening,Question,,42660,5270,1459,1378,648,0.541,This is exactly what I struggle with.
+P062,2026-03-03,Self Confidence,Carousel,Text,Afternoon,Advice,,44811,3181,881,832,391,0.437,I needed to hear this today.
+P063,2026-03-04,Social Anxiety,Short Video,Text,Evening,Question,37.0,24856,1593,441,416,196,0.55,"Useful advice, I can try this."
+P064,2026-03-05,Social Anxiety,Short Video,Visual,Afternoon,Story,43.0,26833,3609,999,944,444,0.494,"Useful advice, I can try this."
+P065,2026-03-06,Self Confidence,Short Video,Text,Morning,Story,57.0,24963,2972,823,777,365,0.543,Very relatable and honest.
+P066,2026-03-07,Dating,Short Video,Visual,Night,Question,25.0,41932,4301,1191,1125,529,0.807,Interesting perspective and useful advice.
+P067,2026-03-08,Overthinking,Carousel,Visual,Morning,Advice,,32169,3092,856,808,380,0.497,This topic is not relatable to me.
+P068,2026-03-09,Social Anxiety,Carousel,Text,Night,Story,,12941,877,243,229,108,0.95,Good post but I do not relate to this.
+P069,2026-03-10,Overthinking,Short Video,Visual,Afternoon,Story,23.0,19388,2553,707,667,314,0.734,I feel understood by this post.
+P070,2026-03-11,Dating,Long Video,Text,Evening,Story,177.0,10569,735,203,192,90,0.644,Not really relatable to me.
+P071,2026-03-12,Dating,Short Video,Visual,Morning,Question,58.0,9300,633,175,165,77,0.558,I have felt exactly like this before.
+P072,2026-03-13,Dating,Short Video,Text,Night,Story,31.0,44037,3263,903,853,401,0.761,This explains what many people experience.
+P073,2026-03-14,Social Anxiety,Short Video,Visual,Morning,Advice,52.0,41586,4244,1175,1110,522,0.595,I thought I was the only one experiencing this.
+P074,2026-03-15,Dating,Short Video,Text,Night,Story,21.0,17015,1371,379,358,168,0.686,This is so relatable to my dating life.
+P075,2026-03-16,Social Anxiety,Carousel,Text,Morning,Story,,11254,643,178,168,79,0.95,I thought I was the only one experiencing this.
+P076,2026-03-17,Dating,Short Video,Text,Night,Advice,27.0,22144,1978,547,517,243,0.658,This is so relatable to my dating life.
+P077,2026-03-18,Overthinking,Long Video,Text,Night,Story,106.0,29214,2135,591,558,262,0.769,My brain does this all the time.
+P078,2026-03-19,Overthinking,Long Video,Text,Afternoon,Question,95.0,45118,4343,1202,1135,534,0.529,This is incredibly relatable.
+P079,2026-03-20,Self Confidence,Short Video,Visual,Night,Question,23.0,20183,908,251,237,111,0.665,Very relatable and honest.
+P080,2026-03-21,Overthinking,Carousel,Visual,Afternoon,Question,,11238,1108,306,289,136,0.85,This topic is not relatable to me.
+P081,2026-03-22,Self Confidence,Carousel,Visual,Night,Advice,,11090,1094,303,286,134,0.538,I don't personally relate to this.
+P082,2026-03-23,Overthinking,Short Video,Text,Evening,Story,19.0,16637,1087,301,284,133,0.906,My brain does this all the time.
+P083,2026-03-24,Social Anxiety,Short Video,Visual,Evening,Question,43.0,27415,3195,884,835,393,0.762,This is exactly how I feel in social situations.
+P084,2026-03-25,Overthinking,Short Video,Text,Evening,Advice,51.0,29071,2217,613,579,272,0.597,I feel understood by this post.
+P085,2026-03-26,Self Confidence,Short Video,Text,Night,Story,52.0,47679,2189,606,572,269,0.752,"Helpful advice, thank you."
+P086,2026-03-27,Self Confidence,Short Video,Visual,Afternoon,Advice,33.0,46240,6020,1667,1574,741,0.796,This is exactly what I struggle with.
+P087,2026-03-28,Dating,Long Video,Visual,Afternoon,Question,116.0,23271,2359,653,617,290,0.701,This is so relatable to my dating life.
+P088,2026-03-29,Social Anxiety,Long Video,Text,Night,Question,90.0,41034,5310,1470,1388,653,0.416,Good post but I do not relate to this.
+P089,2026-03-30,Overthinking,Short Video,Visual,Evening,Question,15.0,38434,3392,939,887,417,0.575,I feel understood by this post.
+P090,2026-03-31,Dating,Short Video,Text,Evening,Advice,36.0,9188,1045,289,273,128,0.638,I have felt exactly like this before.
+P091,2026-04-01,Overthinking,Carousel,Text,Afternoon,Advice,,15161,1762,487,460,216,0.61,I feel understood by this post.
+P092,2026-04-02,Overthinking,Short Video,Text,Evening,Question,21.0,33732,3654,1011,955,449,0.751,This is incredibly relatable.
+P093,2026-04-03,Dating,Short Video,Text,Morning,Advice,39.0,16314,1263,349,330,155,0.693,I have felt exactly like this before.
+P094,2026-04-04,Dating,Short Video,Text,Afternoon,Question,59.0,28954,2184,605,571,268,0.496,This is so relatable to my dating life.
+P095,2026-04-05,Dating,Carousel,Visual,Evening,Question,,26508,2471,684,646,304,0.669,This explains what many people experience.
+P096,2026-04-06,Dating,Short Video,Visual,Afternoon,Story,50.0,26969,3569,988,933,439,0.749,This explains what many people experience.
+P097,2026-04-07,Dating,Long Video,Text,Morning,Advice,78.0,42545,4638,1284,1213,570,0.693,Not really relatable to me.
+P098,2026-04-08,Overthinking,Long Video,Text,Afternoon,Question,156.0,41668,5589,1547,1461,687,0.761,This topic is not relatable to me.
+P099,2026-04-09,Dating,Short Video,Visual,Afternoon,Question,33.0,28061,1720,476,450,211,0.778,This is so relatable to my dating life.
+P100,2026-04-10,Social Anxiety,Long Video,Visual,Afternoon,Advice,109.0,18716,2620,725,685,322,0.68,This is exactly how I feel in social situations.
+P101,2026-04-11,Self Confidence,Short Video,Text,Afternoon,Story,53.0,44749,4640,1285,1213,571,0.661,"Helpful advice, thank you."
+P102,2026-04-12,Dating,Long Video,Visual,Morning,Story,145.0,44144,3255,901,851,400,0.404,Not really relatable to me.
+P103,2026-04-13,Dating,Long Video,Text,Night,Question,86.0,21907,1342,371,351,165,0.676,I have felt exactly like this before.
+P104,2026-04-14,Overthinking,Long Video,Visual,Afternoon,Advice,123.0,23777,2532,701,662,311,0.647,I feel understood by this post.
+P105,2026-04-15,Dating,Short Video,Text,Afternoon,Story,33.0,32693,3002,831,785,369,0.705,This is so relatable to my dating life.
+P106,2026-04-16,Dating,Carousel,Visual,Evening,Advice,,47928,6492,1797,1697,799,0.454,This explains what many people experience.
+P107,2026-04-17,Dating,Short Video,Text,Afternoon,Advice,17.0,31329,1378,381,360,169,0.529,This explains what many people experience.
+P108,2026-04-18,Overthinking,Short Video,Visual,Evening,Question,59.0,21282,2794,773,730,343,0.807,Good information and advice.
+P109,2026-04-19,Dating,Short Video,Visual,Night,Story,27.0,28624,1858,514,486,228,0.665,Not really relatable to me.
+P110,2026-04-20,Self Confidence,Long Video,Text,Morning,Question,137.0,28321,1821,504,476,224,0.709,I needed to hear this today.
+P111,2026-04-21,Overthinking,Long Video,Visual,Morning,Story,93.0,15488,1149,318,300,141,0.624,I feel understood by this post.
+P112,2026-04-22,Self Confidence,Short Video,Text,Night,Story,42.0,27574,3482,964,910,428,0.674,I needed to hear this today.
+P113,2026-04-23,Overthinking,Long Video,Visual,Morning,Story,165.0,10240,1209,335,316,148,0.742,This is incredibly relatable.
+P114,2026-04-24,Dating,Short Video,Text,Night,Story,55.0,48221,4064,1125,1063,500,0.603,Interesting perspective and useful advice.
+P115,2026-04-25,Self Confidence,Long Video,Visual,Night,Story,61.0,15478,1246,345,326,153,0.632,This is exactly what I struggle with.
+P116,2026-04-26,Overthinking,Short Video,Text,Night,Advice,15.0,24262,3212,889,840,395,0.61,My brain does this all the time.
+P117,2026-04-27,Social Anxiety,Long Video,Visual,Morning,Question,172.0,9432,798,221,208,98,0.564,This is exactly how I feel in social situations.
+P118,2026-04-28,Dating,Short Video,Text,Evening,Advice,27.0,34721,4578,1267,1197,563,0.63,Not really relatable to me.
+P119,2026-04-29,Overthinking,Carousel,Visual,Night,Story,,18568,1793,496,469,220,0.649,I feel understood by this post.
+P120,2026-04-30,Social Anxiety,Short Video,Text,Afternoon,Question,39.0,19178,1599,442,418,196,0.608,"Very relatable, this explained my feelings perfectly."
